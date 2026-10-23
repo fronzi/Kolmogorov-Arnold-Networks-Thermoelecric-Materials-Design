@@ -1,0 +1,8 @@
+results/
+*.pth
+*.pkl
+*.csv
+!train_embeddings_250epochs_embdim128_original.csv
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
